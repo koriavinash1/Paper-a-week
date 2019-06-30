@@ -4,7 +4,7 @@
 
 ### General Summary
 
-+ Authors propose new non-euclidean project for data embedding
++ Authors propose new non-euclidean projection for text embedding
 
 + A new approach for learning hierarchical representations of symbolic data is proposed, to be more precise technique in the paper describes the projection on latent hierarchical data on to n dimensional poincare ball (hyperbolic projection)
 
