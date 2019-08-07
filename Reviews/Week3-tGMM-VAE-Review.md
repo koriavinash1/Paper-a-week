@@ -7,8 +7,6 @@
 
 + Authors proposed a semi-supervised method for outlier detection and clustering
 
-+ Proposed method results in infinite minor cluster formation, no need to fix the number of clusters
-
 + Since GMM's are not feasible for high dimensional or non linear data, methods like VAE's are used to learn the latent embeddings of the data
 
 + For joint optimization of clustering and outlier detection, the proposed method involves truncated Gaussian-Mixture model embedded in a Variational AutoEncoder framework (tGM-VAE)
