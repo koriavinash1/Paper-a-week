@@ -12,4 +12,6 @@ Initiative to improve the habit of litreture survey
 
 + Week4: [Thousand Brain Theory of Intelligence](./Reviews/Week4-Thousand-Brain-Theory-Review.md)
 
-+ Week5: [Hybrid computing using a neural network with dynamic external memory](./Reviews/Week5-DNV-Review.md)
++ Week5: [Hybrid computing using a neural network with dynamic external memory](./Reviews/Week5-DNC-Review.md)
+
++ Week6: [Transformers](./Reviews/Week6-Transformers-Review.md)
