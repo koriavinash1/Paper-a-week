@@ -11,3 +11,5 @@ Initiative to improve the habit of litreture survey
 + Week3: [Truncated Gaussian-Mixture Variational AutoEncoder](./Reviews/Week3-tGMM-VAE-Review.md)
 
 + Week4: [Thousand Brain Theory of Intelligence](./Reviews/Week4-Thousand-Brain-Theory-Review.md)
+
++ Week5: [Hybrid computing using a neural network with dynamic external memory](./Reviews/Week5-DNV-Review.md)
