@@ -1,13 +1,3 @@
----
-layout: post
-title: "Activation Maximization"
-date: 2019-08-25
-desc: ""
-keywords: "AI, Machine_Learning, Optimization"
-categories: [AI]
-tags: [Technology, Mathematics, Optimization, ML]
-icon: icon-centos
----
 ## Activation Maximization
 
 #### Wanted to try something different, listing new ideas and it's implications 
