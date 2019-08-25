@@ -14,4 +14,4 @@ Initiative to improve the habit of litreture survey
 
 + Week5: [Hybrid computing using a neural network with dynamic external memory](./Reviews/Week5-DNC-Review.md)
 
-+ Week6: [Transformers](./Reviews/Week6-Transformers-Review.md)
++ Week6: [Activation Maximization](./Reviews/Week6-Activation-Maximization-Review.md)
